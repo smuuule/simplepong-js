@@ -1,2 +1,2 @@
 # simplepong-js
- A simple Pong made in JavaScript
+A JavaScript project
